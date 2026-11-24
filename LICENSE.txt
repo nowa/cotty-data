@@ -1,0 +1,61 @@
+The experiments of cotty: licenses
+==================================
+
+This repository holds the large data of the experiments of cotty, whose other
+files are published with the documents of cotty, at
+https://nowa.im/cotty/experiments/. The notice is the same as theirs. Two kinds
+of file carry a license.
+
+
+1. The programs: the MIT license
+
+Every file in a folder named harness/, and the files conditions.sh and run.py.
+
+    MIT License
+
+    Copyright (c) 2026 Nowa Zhu
+
+    Permission is hereby granted, free of charge, to any person obtaining a copy
+    of this software and associated documentation files (the "Software"), to deal
+    in the Software without restriction, including without limitation the rights
+    to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
+    copies of the Software, and to permit persons to whom the Software is
+    furnished to do so, subject to the following conditions:
+
+    The above copyright notice and this permission notice shall be included in all
+    copies or substantial portions of the Software.
+
+    THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+    IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+    FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
+    AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
+    LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
+    OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
+    SOFTWARE.
+
+
+2. The data: CC0 1.0
+
+Every file in a folder named data/.
+
+To the extent possible under law, Nowa Zhu has waived all copyright and
+related or neighboring rights to these files. The legal text is in the file
+CC0-1.0.txt beside this one, and at
+https://creativecommons.org/publicdomain/zero/1.0/.
+
+Some of these files hold what other programs wrote or drew during a run, such
+as their logs and images of their windows. The waiver covers the rights of
+Nowa Zhu in them, and nobody else's.
+
+Credit is not a condition. If you use the data, please name the record of the
+experiment it comes from.
+
+
+3. Everything else
+
+The charts, the files named charts.toml, and the records of the experiments
+among the documents are documents. The license of the documents is not decided
+yet. Until it is, these files are not licensed.
+
+
+程序用 MIT 许可；数据用 CC0 1.0 放入公有领域；图表、charts.toml 和记录页属于文档，文档的许可还没有定。
